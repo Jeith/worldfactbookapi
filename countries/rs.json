@@ -130,13 +130,13 @@
       }
     },
     "Languages": {
-      "text": "Russian (official) 85.7%, Tatar 3.2%, Chechen 1%, other 10.1%",
+      "text": "Russian 85.7%, Tatar 3.2%, Chechen 1%, other 10.1%",
       "note": {
         "text": "data represent native language spoken (2010 est.)"
       }
     },
     "Religions": {
-      "text": "Russian Orthodox 15-20%, Muslim 10-15%, other Christian 2% (2006 est.)",
+      "text": "Russian Orthodox 20%, Muslim 15%, Christian 2%, other/none 63%",
       "note": {
         "text": "estimates are of practicing worshipers; Russia has large populations of non-practicing believers and non-believers, a legacy of over seven decades of Soviet rule; Russia officially recognizes Orthodox Christianity, Islam, Judaism, and Buddhism as traditional religions"
       }
