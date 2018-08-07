@@ -109,7 +109,7 @@
     },
     "Nationality": {
       "noun": {
-        "text": "Japanese 99%, other 1%"
+        "text": "Japanese"
       },
       "adjective": {
         "text": "Japanese 99%, other 1%"
@@ -122,7 +122,7 @@
       }
     },
     "Languages": {
-      "text": "Japanese"
+      "text": "Japanese 99%, other 1%"
     },
     "Religions": {
       "text": "Shintoism 79.2%, Buddhism 66.8%, Christianity 1.5%, other 7.1%",
